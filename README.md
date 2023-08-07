@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Clonar e Instalar Repositorio de Selenium con Java
 
 Este repositorio contiene un proyecto que utiliza Selenium con Java para automatizar pruebas en navegadores web. A continuación, se detallan los pasos para clonar el repositorio y configurar el entorno para ejecutar las pruebas automatizadas.
