@@ -11,6 +11,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes en 
 
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html): Necesitarás Java para compilar y ejecutar el código.
 - [Maven](https://maven.apache.org/): Maven se utilizará para administrar las dependencias del proyecto.
+- [Eclipse IDE](https://www.eclipse.org/downloads/): El proyecto fue desarrollado utilizando este IDE.
 
 ## Pasos
 
